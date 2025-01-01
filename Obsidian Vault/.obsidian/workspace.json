@@ -6,6 +6,7 @@
       {
         "id": "60b45da605623979",
         "type": "tabs",
+        "dimension": 45.92013888888889,
         "children": [
           {
             "id": "0e28c33f08d4ab1c",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读笔记/海绵阅读法：如何吸收一本书的精华》/海绵阅读法：如何吸收一本书的精华.md",
+                "file": "阅读笔记/与神对话/与神对话1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "海绵阅读法：如何吸收一本书的精华"
+              "title": "与神对话1"
             }
           }
         ]
@@ -26,10 +27,12 @@
       {
         "id": "70c3eee47c456c5c",
         "type": "split",
+        "dimension": 54.079861111111114,
         "children": [
           {
             "id": "ea18c6867f037f90",
             "type": "tabs",
+            "dimension": 63.13725490196078,
             "children": [
               {
                 "id": "03c3b643bebe3808",
@@ -37,12 +40,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "阅读笔记/金句收集.md",
+                    "file": "阅读笔记/与神对话/与神对话-核心概念.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "金句收集"
+                  "title": "与神对话-核心概念"
                 }
               }
             ]
@@ -50,6 +53,7 @@
           {
             "id": "7b4cabb56d8dc7f7",
             "type": "tabs",
+            "dimension": 36.86274509803922,
             "children": [
               {
                 "id": "39331e95466e631d",
@@ -57,12 +61,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "阅读笔记/金句收集.md",
+                    "file": "阅读笔记/海绵阅读法：如何吸收一本书的精华》/海绵阅读法：如何吸收一本书的精华.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "金句收集"
+                  "title": "海绵阅读法：如何吸收一本书的精华"
                 }
               }
             ]
@@ -140,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读笔记/金句收集.md",
+                "file": "阅读笔记/与神对话/与神对话-核心概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "金句收集 的反向链接列表"
+              "title": "与神对话-核心概念 的反向链接列表"
             }
           },
           {
@@ -211,16 +215,18 @@
   },
   "active": "03c3b643bebe3808",
   "lastOpenFiles": [
+    "阅读笔记/与神对话/与神对话1.md",
+    "阅读笔记/与神对话/与神对话-核心概念.md",
+    "阅读笔记/与神对话/与神对话-故事案例.md",
     "阅读笔记/海绵阅读法：如何吸收一本书的精华》/海绵阅读法：如何吸收一本书的精华.md",
     "阅读笔记/金句收集.md",
-    "阅读笔记/金句.md",
     "快捷键.md",
+    "阅读笔记/金句.md",
     "书籍/与神对话.md",
     "阅读笔记/未命名.md",
     "阅读笔记/引用故事",
     "阅读笔记/未命名",
     "阅读笔记/快捷键.md",
-    "阅读笔记/与神对话/与神对话1.md",
     "2024-12-22.md",
     "阅读笔记/与神对话1.md",
     "阅读笔记/未命名 1.md",
