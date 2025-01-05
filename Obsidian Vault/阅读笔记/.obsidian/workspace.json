@@ -6,7 +6,7 @@
       {
         "id": "60b45da605623979",
         "type": "tabs",
-        "dimension": 50.520833333333336,
+        "dimension": 44.678292242934454,
         "children": [
           {
             "id": "0e28c33f08d4ab1c",
@@ -27,12 +27,12 @@
       {
         "id": "71403b857e02db32",
         "type": "split",
-        "dimension": 49.479166666666664,
+        "dimension": 55.32170775706554,
         "children": [
           {
             "id": "633722ca0cee0442",
             "type": "tabs",
-            "dimension": 53.03921568627451,
+            "dimension": 73.52941176470588,
             "children": [
               {
                 "id": "b48672180383260e",
@@ -53,7 +53,7 @@
           {
             "id": "fe1f1e19e28ebd01",
             "type": "tabs",
-            "dimension": 46.96078431372549,
+            "dimension": 26.47058823529412,
             "children": [
               {
                 "id": "502e22ff52b8b24d",
@@ -128,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 211.5,
+    "collapsed": true
   },
   "right": {
     "id": "d1d72ce13f167177",
@@ -200,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,10 +217,10 @@
   },
   "active": "b48672180383260e",
   "lastOpenFiles": [
-    "与神对话/与神对话-故事案例.md",
-    "与神对话/与神对话-核心概念.md",
     "与神对话/与神对话1.md",
+    "与神对话/与神对话-核心概念.md",
     "海绵阅读法：如何吸收一本书的精华》/海绵阅读法：如何吸收一本书的精华.md",
+    "与神对话/与神对话-故事案例.md",
     "金句收集.md",
     "快捷键.md",
     "欢迎.md",

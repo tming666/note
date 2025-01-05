@@ -1,5 +1,5 @@
 {
-  "highlighterStyle": "rounded",
+  "highlighterStyle": "none",
   "highlighterMethods": "inline-styles",
   "highlighters": {
     "Pink": "#FFB8EBA6",
@@ -10,7 +10,7 @@
     "Blue": "#ADCCFFA6",
     "Purple": "#D2B3FFA6",
     "Grey": "#CACFD9A6",
-    "Yellow": "#FFF07F"
+    "Yellow": "FFF07F"
   },
   "highlighterOrder": [
     "Pink",
